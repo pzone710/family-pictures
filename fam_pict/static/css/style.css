@@ -1,0 +1,12 @@
+body{
+  margin: auto;
+  text-align: center;
+}
+
+h1{
+  color: rgb(27, 183, 241);
+}
+
+#one, #two{
+  transform: rotate(-90deg)
+}
